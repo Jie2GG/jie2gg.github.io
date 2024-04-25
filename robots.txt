@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jie2gg.github.io/sitemap.xml
